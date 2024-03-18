@@ -1,0 +1,298 @@
+.root {
+  position: relative;
+  width: 1920px;
+  height: 1701px;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 120px 0;
+  background-color: #fff6b7;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  right: -3px;
+  top: 0;
+  bottom: 1584px;
+  background-color: #fafafa;
+}
+.buttonBtnPrimaryColorBtnRound {
+  position: absolute;
+  left: 222px;
+  top: 784px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  padding: 15px 36px;
+  border-radius: 37px;
+  background-color: #ffec80;
+  overflow: hidden;
+}
+.btnText {
+  color: #000;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  width: 115px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.buttonBtnPrimaryColorBtnOutlin {
+  position: absolute;
+  left: 432px;
+  top: 784px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  padding: 15px 36px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  border-radius: 37px;
+  overflow: hidden;
+}
+.btnText2 {
+  color: #000;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.h1Headline3 {
+  color: #1f1f1f;
+  font-size: 58px;
+  line-height: 80px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  position: absolute;
+  left: 227px;
+  top: 254px;
+  width: 477px;
+  height: min-content;
+  flex-direction: column;
+}
+.bigSpoonLilSpoon {
+  color: #1f1f1f;
+  font-size: 36px;
+  line-height: 56px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 46px;
+  top: 35px;
+  width: 480px;
+  height: 55px;
+  flex-direction: column;
+}
+.iMG_19531 {
+  position: absolute;
+  left: 448px;
+  top: 22px;
+  width: 80px;
+  height: 78px;
+  background-image:/* webpackIgnore: true */ url('/assets/iMG_19531.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about {
+  color: #000;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  position: absolute;
+  left: 1134px;
+  top: 52px;
+  width: 87px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.link {
+  color: #000;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  position: absolute;
+  left: 1359px;
+  top: 52px;
+  width: 111px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.link2 {
+  color: #000;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  position: absolute;
+  left: 1597px;
+  top: 52px;
+  width: 156px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.chefInTheKitchen {
+  position: absolute;
+  left: 947px;
+  top: 151px;
+  width: 993px;
+  height: 993px;
+  background-image:/* webpackIgnore: true */ url('/assets/chefInTheKitchen.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.h1Headline4 {
+  color: #000;
+  font-size: 58px;
+  line-height: 80px;
+  font-family: Palanquin Dark, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  position: absolute;
+  left: 222px;
+  top: 1198px;
+  width: 593px;
+  height: 75px;
+  flex-direction: column;
+}
+.bslsInfo {
+  color: #1f1f1f;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  position: absolute;
+  left: 228px;
+  top: 1305px;
+  width: 523px;
+  height: min-content;
+  flex-direction: column;
+}
+.iMG_19552 {
+  transform-origin: top left;
+  position: absolute;
+  left: 1738.0052px;
+  top: 952px;
+  width: 704.7703px;
+  height: 667.8138px;
+  background-image:/* webpackIgnore: true */ url('/assets/iMG_19552.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 4px 4px 10px 0px #00000040;
+  transform: matrix(-0.9876, 0.1572, 0.1572, 0.9876, 0, 0);
+}
+.instagram {
+  position: absolute;
+  left: 767px;
+  top: 1612px;
+  width: 45px;
+  height: 45px;
+  background-image:/* webpackIgnore: true */ url('/assets/instagram.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.twitterX {
+  position: absolute;
+  left: 939px;
+  top: 1612px;
+  width: 45px;
+  height: 45px;
+  background-image:/* webpackIgnore: true */ url('/assets/twitterX.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.letter {
+  position: absolute;
+  left: 1111px;
+  top: 1612px;
+  width: 45px;
+  height: 45px;
+  background-image:/* webpackIgnore: true */ url('/assets/letter.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.youTube {
+  position: absolute;
+  left: 595px;
+  top: 1612px;
+  width: 45px;
+  height: 45px;
+  background-image:/* webpackIgnore: true */ url('/assets/youTube.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.facebook {
+  position: absolute;
+  left: 1283px;
+  top: 1612px;
+  width: 45px;
+  height: 45px;
+  background-image:/* webpackIgnore: true */ url('/assets/facebook.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.bslsInfo2 {
+  color: #000;
+  font-size: 20px;
+  line-height: 30px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.2px;
+  position: absolute;
+  left: 227px;
+  top: 596px;
+  width: 516px;
+  height: min-content;
+  flex-direction: column;
+}
+.chef {
+  transform-origin: top left;
+  position: absolute;
+  left: -699px;
+  top: 637.9189px;
+  width: 1109.3954px;
+  height: 1430.2723px;
+  background-image:/* webpackIgnore: true */ url('/assets/chef.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transform: matrix(0.9879, -0.155, 0.155, 0.9879, 0, 0);
+}
